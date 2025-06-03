@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rkcollection.sa/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rkcollection.sa/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rkcollection.sa/collections/new.atom"/>
+  <title>RK COLLECTION</title>
+  <updated>2021-04-14T13:13:54+03:00</updated>
+  <author>
+    <name>RK COLLECTION</name>
+  </author>
+  <entry>
+    <id>https://rkcollection.sa/products/6704552411287</id>
+    <published>2021-04-14T13:13:54+03:00</published>
+    <updated>2021-04-14T13:13:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/products/silver-sandal"/>
+    <title>Silver Santal</title>
+    <s:type></s:type>
+    <s:vendor>EXTRAORDINAIRE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-07-16-36-25_3.jpg?v=1746625694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EXTRAORDINAIRE<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">The rain has fallen persistently and calmly throughout the day in the fascinating redwood forest. The trunks of the imposing trees ooze the purest water that has ever existed; the signal that the desired moment has arrived, and nature whispers it to us. It is time to obtain the best essential oils to create and enjoy a new era of aromas in a magical fragrance. The trees also tell us that the rain has already left its immortal mark on this perfume forever.</p>
+<p style="white-space: pre-wrap;" class=""><strong>Top Note:</strong> Cardamon</p>
+<p style="white-space: pre-wrap;" class=""><strong>Middle Note:</strong> Violet, Leather</p>
+<p style="white-space: pre-wrap;" class=""><strong>Base Note:</strong> Cedar wood, Sandalwood</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extraordinaire</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/products/6704552411287</id>
+      <title>Default Title</title>
+      <s:price currency="SAR">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/products/6704535830679</id>
+    <published>2021-04-08T21:50:42+03:00</published>
+    <updated>2021-04-08T21:50:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/products/musk-vanille"/>
+    <title>Musk Vanille</title>
+    <s:type></s:type>
+    <s:vendor>EXTRAORDINAIRE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-07-16-36-25_2.jpg?v=1748182387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EXTRAORDINAIRE<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            345.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">Our MUSK VANILLA excellently captures delightful and gentle aromas that hide a premium experience for our senses. We can feel its tones of musk with hints of superior and sweet Madagascar Vanilla, crafted from the best beans in the world. It is a soft, structured, and warm fragrance, with slight notes of charming Incense and Orris, scents that always reach our spirit. The engaging surprise comes with an ending full of pure peace.</p>
+<p style="white-space: pre-wrap;" class=""><strong>Top Note:</strong> Orris</p>
+<p style="white-space: pre-wrap;" class=""><strong>Middle Note:</strong> Musky</p>
+<p style="white-space: pre-wrap;" class=""><strong>Base Note:</strong> Vanilla</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extraordinaire</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/products/6704535830679</id>
+      <title>Default Title</title>
+      <s:price currency="SAR">345.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/products/6704731422871</id>
+    <published>2021-04-08T21:50:41+03:00</published>
+    <updated>2021-04-08T21:50:41+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/products/bukhour-1"/>
+    <title>Bukhour</title>
+    <s:type></s:type>
+    <s:vendor>EXTRAORDINAIRE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-07-16-36-26.jpg?v=1746625996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EXTRAORDINAIRE<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Pure Oud extract that will last over 24 hours.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rkcollection.sa/products/6704731422871</id>
+      <title>50ML</title>
+      <s:price currency="SAR">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/products/6704544612503</id>
+    <published>2021-04-08T21:50:40+03:00</published>
+    <updated>2021-04-08T21:50:40+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/products/leather-oud"/>
+    <title>Leather Oud</title>
+    <s:type></s:type>
+    <s:vendor>EXTRAORDINAIRE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-06-20-12-49.jpg?v=1746623772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EXTRAORDINAIRE<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            345.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">In the lush forests of Asia, we find the extraordinary Agarwood, the oud, hidden, waiting. Its legendary essences are carefully collected from these exquisite natural gifts to create a genuinely luxurious perfume. Leather Oud is a fragrance full of mystery and strength, wood and moss, warmth and smoke. The richness of its sublime native essences blends with Rose and Amber's final notes, completed with a subtle hint of Lemon.</p>
+<p style="white-space: pre-wrap;" class=""><strong>Top Note:</strong> Black Pepper, Elemi</p>
+<p style="white-space: pre-wrap;" class=""><strong>Middle Note:</strong> Leather, Rose, Amber</p>
+<p style="white-space: pre-wrap;" class=""><strong>Base Note:</strong> Sandalwood, Patchouli, Musk, Moss</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extraordinaire</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/products/6704544612503</id>
+      <title>Default Title</title>
+      <s:price currency="SAR">345.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

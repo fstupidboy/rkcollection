@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ar" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rkcollection.sa/ar/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rkcollection.sa/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rkcollection.sa/ar/collections/new.atom"/>
+  <title>RK COLLECTION</title>
+  <updated>2021-04-14T13:13:54+03:00</updated>
+  <author>
+    <name>RK COLLECTION</name>
+  </author>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/6704552411287</id>
+    <published>2021-04-14T13:13:54+03:00</published>
+    <updated>2021-04-14T13:13:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/silver-sandal"/>
+    <title>صندل فضي</title>
+    <s:type></s:type>
+    <s:vendor>EXTRAORDINAIRE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-07-16-36-25_3.jpg?v=1746625694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EXTRAORDINAIRE<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">كان المطر يتساقط باستمرار وبهدوء طوال اليوم في غابة الخشب الأحمر الرائعة. جذوع الأشجار المهيبة تفرز المياه النقية الموجودة على الإطلاق ؛ إشارة إلى أن اللحظة المرجوة قد حانت ، والطبيعة تهمسنا بها. حان الوقت للحصول على أفضل الزيوت العطرية لخلق والاستمتاع بعصر جديد من الروائح في عطر سحري. تخبرنا الأشجار أيضًا أن المطر قد ترك بصماته الخالدة على هذا العطر إلى الأبد.</p><p style="white-space: pre-wrap;" class=""><strong> أعلى ملاحظة:</strong> هيل</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة متوسطة:</strong> البنفسج والجلود</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة أساسية:</strong> خشب الأرز وخشب الصندل</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extraordinaire</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/6704552411287</id>
+      <title>Default Title</title>
+      <s:price currency="SAR">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/6704535830679</id>
+    <published>2021-04-08T21:50:42+03:00</published>
+    <updated>2021-04-08T21:50:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/musk-vanille"/>
+    <title>&lt;transcy&gt;مسك فانيل&lt;/transcy&gt;</title>
+    <s:type></s:type>
+    <s:vendor>EXTRAORDINAIRE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-07-16-36-25_2.jpg?v=1748182387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EXTRAORDINAIRE<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            345.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><transcy><p style="white-space: pre-wrap;" class="">مسك فانيلا لدينا يلتقط بشكل ممتاز الروائح اللطيفة واللطيفة التي تخفي تجربة ممتازة لحواسنا. يمكننا أن نشعر بألوان المسك مع لمحات من فانيليا مدغشقر المتفوقة والحلوة ، المصنوعة من أفضل أنواع الحبوب في العالم. إنه عطر ناعم ومنظم ودافئ ، مع روائح طفيفة من البخور الساحر والأوريس ، الروائح التي تصل إلى روحنا دائمًا. تأتي المفاجأة الجذابة مع نهاية مليئة بالسلام الخالص.</p><p style="white-space: pre-wrap;" class=""><strong> أعلى ملاحظة:</strong> أوريس</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة متوسطة:</strong> مسكي</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة أساسية:</strong> فانيلا</p></transcy></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extraordinaire</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/6704535830679</id>
+      <title>Default Title</title>
+      <s:price currency="SAR">345.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/6704731422871</id>
+    <published>2021-04-08T21:50:41+03:00</published>
+    <updated>2021-04-08T21:50:41+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/bukhour-1"/>
+    <title>&lt;transcy&gt;المسك الحلو&lt;/transcy&gt;</title>
+    <s:type></s:type>
+    <s:vendor>EXTRAORDINAIRE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-07-16-36-26.jpg?v=1746625996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EXTRAORDINAIRE<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><transcy><p style="white-space: pre-wrap;" class="">يعد هذا العطر بتناغم تام. يركز في قطراته على أحاسيس حقيقية متنوعة ، من النوتات الطازجة والحمضية إلى أحر وأهدأ. أولاً ، سوف يلامس خشب Guaia Wood جميع حواسك ويغذيها. بعد ذلك ، ستصل رائحة الياسمين الأبيض ورائحة القرفة الخفيفة الحارة إلى جميع أجزاء جسمك. ستكون النضارة الأصلية للماندرين وشغف الفواكه الحمراء ذروة مطلقة من شأنها أن تداعب روحك. لأن اللحن العطري الرائع يمكن الشعور به فقط ، ولا يمكن تفسيره أبدًا.</p><p style="white-space: pre-wrap;" class=""></p><p style="white-space: pre-wrap;" class=""><strong> أعلى ملاحظة:</strong> ليمون ، ماندرين</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة متوسطة:</strong> الفانيليا والزهور</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة أساسية:</strong> المسك</p><p style="white-space: pre-wrap;" class=""></p><p style="white-space: pre-wrap;" class=""><strong> طبقة مع</strong></p><p style="white-space: pre-wrap;" class=""> الخشب لمظهر ترابي</p><p style="white-space: pre-wrap;" class=""> ياسمين لرائحة دافئة</p></transcy></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/6704731422871</id>
+      <title>50 مل</title>
+      <s:price currency="SAR">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/6704544612503</id>
+    <published>2021-04-08T21:50:40+03:00</published>
+    <updated>2021-04-08T21:50:40+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/leather-oud"/>
+    <title>عود ليذر</title>
+    <s:type></s:type>
+    <s:vendor>EXTRAORDINAIRE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-06-20-12-49.jpg?v=1746623772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EXTRAORDINAIRE<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            345.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">في غابات آسيا الخصبة ، نجد خشب العود غير العادي ، العود ، مختبئًا ، ينتظر. تم جمع الخلاصات الأسطورية بعناية من هذه الهدايا الطبيعية الرائعة لابتكار عطر فاخر حقًا. LEATHER OUD هو عطر مليء بالغموض والقوة والخشب والطحلب والدفء والدخان. يمتزج ثراء خلاصاته الأصلية الرائعة مع مكونات الورد والعنبر النهائية ، مع لمسة خفيفة من الليمون. تنبيه الإدمان: إذا شممت رائحته مرة واحدة ، فإن سحره سوف يمسك بك.</p><p style="white-space: pre-wrap;" class=""><strong> أعلى ملاحظة:</strong> ليمون ، إليمي</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة متوسطة:</strong> جلد ، روز العنبر</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة أساسية:</strong> خشب الصندل ، الباتشولي ، المسك ، الطحلب</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>extraordinaire</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/6704544612503</id>
+      <title>Default Title</title>
+      <s:price currency="SAR">345.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

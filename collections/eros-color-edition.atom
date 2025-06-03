@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rkcollection.sa/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rkcollection.sa/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rkcollection.sa/collections/eros-color-edition.atom"/>
+  <title>RK COLLECTION</title>
+  <updated>2025-05-25T17:06:48+03:00</updated>
+  <author>
+    <name>RK COLLECTION</name>
+  </author>
+  <entry>
+    <id>https://rkcollection.sa/products/9029430280343</id>
+    <published>2025-05-25T17:06:48+03:00</published>
+    <updated>2025-05-25T17:06:48+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/products/left-you-there-copy"/>
+    <title>Secret Garden</title>
+    <s:type></s:type>
+    <s:vendor>ART WILL SAVE US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/Secret_Garden.jpg?v=1748181925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ART WILL SAVE US<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class=""><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Secret Garden an enigmatic scent that begins with the smoky, spiritual allure of incense, drawing you in with its mysterious charm. At its heart, a solitary rose blooms adding a touch of elegance to the composition. Grounded by the earthy richness of beetroot and the green, woody depth of vetiver, this fragrance is both raw and refined. Layer with a crisp citrus scent to add a burst of freshness and brightness, transforming it into a vibrant, multi-dimensional experience.</span></p>
+<p style="white-space: pre-wrap;" class=""><strong style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Top Note:</strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"> Incense</span><br></p>
+<p style="white-space: pre-wrap;" class=""><strong>Middle Note:</strong> : Rose</p>
+<p style="white-space: pre-wrap;" class=""><strong style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Base Note:</strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"> Beetroot, Vetiver</span></p>
+<p style="white-space: pre-wrap;" class=""> </p>
+<p style="white-space: pre-wrap;" class=""><strong>Layer with</strong></p>
+<p style="white-space: pre-wrap;" class="">Citrus for freshness</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-edition</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/products/9029430280343</id>
+      <title>50ML</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/products/8974162985111</id>
+    <published>2025-04-27T17:15:38+03:00</published>
+    <updated>2025-04-27T17:15:38+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/products/piccadilly-copy"/>
+    <title>Dinner At 8</title>
+    <s:type></s:type>
+    <s:vendor>EROS COLOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/520C8A25-55BA-49AE-95DF-B2A861D8F06D.png?v=1746205799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EROS COLOR<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="" style="white-space: pre-wrap;">Dinner At 8 is a warm and inviting scent that opens with the spicy sweetness of cinnamon and cardamom, brightened by a whisper of orange blossom. At its heart, creamy almond adds a cozy, gourmand elegance, melting into a base of soft tonka and a touch comforting vanilla</p>
+<p class="" style="white-space: pre-wrap;"> </p>
+<p class="" style="white-space: pre-wrap;"><strong>Top Note:</strong> Cinnamon, Cardamon, Orange Blossom</p>
+<p class="" style="white-space: pre-wrap;"><strong>Middle Note:</strong> Almond</p>
+<p class="" style="white-space: pre-wrap;"><strong>Base Note:</strong> Tonka, Vanilla, Musk</p>
+<p class="" style="white-space: pre-wrap;"> </p>
+<p class="" style="white-space: pre-wrap;"><strong>Layer with</strong></p>
+<p class="" style="white-space: pre-wrap;">Bergamot for fresh twist</p>
+<p class="" style="white-space: pre-wrap;">Floral for soft touch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-edition</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/products/8974162985111</id>
+      <title>50ML</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/products/6704747413655</id>
+    <published>2021-04-08T21:50:42+03:00</published>
+    <updated>2021-04-08T21:50:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/products/neroli-rose"/>
+    <title>Art Will Save Us</title>
+    <s:type></s:type>
+    <s:vendor>ART WILL SAVE US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/8698773B-DE08-4CD3-9D12-EA043A5C3829.png?v=1746205740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ART WILL SAVE US<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">ART WILL SAVE US is a bold and sensual fragrance that opens with the bright spice of pink pepper, teasing the senses before revealing a heart of rich saffron, lush of rose and Oud. As it settles, deep woody and leather notes create a grounding, mysterious base. Layered with vanilla, it transforms into a warm, addictive blend—comforting yet daring.</p>
+<p style="white-space: pre-wrap;" class=""><strong>Top Note:</strong> Pink Pepper</p>
+<p style="white-space: pre-wrap;" class=""><strong>Middle Note:</strong> Saffron, Rose, Oud</p>
+<p style="white-space: pre-wrap;" class=""><strong>Base Note:</strong> Woody, Leather</p>
+<p style="white-space: pre-wrap;" class=""> </p>
+<p style="white-space: pre-wrap;" class=""><strong>Layer with</strong></p>
+<p style="white-space: pre-wrap;" class="">Vanilla for the warm feel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-edition</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/products/6704747413655</id>
+      <title>50ML</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/products/6704651305111</id>
+    <published>2021-04-08T21:50:42+03:00</published>
+    <updated>2021-04-08T21:50:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/products/piccadilly"/>
+    <title>Left You There</title>
+    <s:type></s:type>
+    <s:vendor>ART WILL SAVE US</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/A715EC43-09DA-400F-8718-A66BE8BBA7DB.png?v=1748181925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ART WILL SAVE US<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">LEFT YOU THERE is a daring yet elegant scent that opens with the juicy sweetness of raspberry, drawing you into an unexpected heart of smooth leather and calming lavender. The base unfolds into soft vanilla and powdery notes, creating a sensual, skin-like finish turning the scent into a truly captivating signature.</p>
+<p style="white-space: pre-wrap;" class=""><strong>Top Note:</strong> Raspberry</p>
+<p style="white-space: pre-wrap;" class=""><strong>Middle Note:</strong> : Leather, Lavender</p>
+<p style="white-space: pre-wrap;" class=""><strong>Base Note:</strong> Vanilla, Powdery</p>
+<p style="white-space: pre-wrap;" class=""> </p>
+<p style="white-space: pre-wrap;" class=""><strong>Layer with</strong></p>
+<p style="white-space: pre-wrap;" class="">Woody for warmth</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-edition</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/products/6704651305111</id>
+      <title>50ML</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

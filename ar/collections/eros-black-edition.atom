@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ar" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rkcollection.sa/ar/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rkcollection.sa/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rkcollection.sa/ar/collections/eros-black-edition.atom"/>
+  <title>RK COLLECTION</title>
+  <updated>2025-05-07T16:47:08+03:00</updated>
+  <author>
+    <name>RK COLLECTION</name>
+  </author>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/8984382832791</id>
+    <published>2025-05-07T16:47:08+03:00</published>
+    <updated>2025-05-07T16:47:08+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/neroli-rose-1"/>
+    <title>&lt;transcy&gt;إمبريال روج&lt;/transcy&gt;</title>
+    <s:type></s:type>
+    <s:vendor>CLASSIC COLLECTION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/Neroli_Rose_50ML.png?v=1746533549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLASSIC COLLECTION<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><transcy><p style="white-space: pre-wrap;" class="">تُلهم كثافة وشغف وقوة Imperial Rouge هذا العطر في بعض الأحيان بالدفء ، وفي بعض الأحيان الحمضيات ، والأصالة دائمًا. تم تشكيل شخصيته بمزيج مثالي من الخشب والنوتات الحلوة ، مع لمسات الفانيليا الخفيفة. بعد ثانية ، نكتشف الألوان المتوسطة الزهرية والتوابل ، حيث تتنافس القرفة مع الجلود وخشب الصندل. ومع ذلك ، فإن الانتصار والمجد النهائي مخصصان لرائحة الحمضيات القوية للجريب فروت وجواهر أرتميس الحارة اللذيذة.</p><p style="white-space: pre-wrap;" class=""><br></p><p style="white-space: pre-wrap;" class=""><strong> أعلى ملاحظة:</strong> البرغموت والهيل وبذور الجزر</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة متوسطة:</strong> جلد ، أرز ، صندل</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة أساسية:</strong> العنبر ، تونكا</p><p style="white-space: pre-wrap;" class=""></p><p style="white-space: pre-wrap;" class=""><strong> طبقة مع</strong></p><p style="white-space: pre-wrap;" class=""> الجريب فروت لرائحة خفيفة</p><p style="white-space: pre-wrap;" class=""> الفانيليا لرائحة دافئة</p></transcy></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-edition</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/8984382832791</id>
+      <title>50 مل</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/7726137999511</id>
+    <published>2022-08-07T14:36:08+03:00</published>
+    <updated>2022-08-07T14:36:08+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/amber-rose"/>
+    <title>&lt;transcy&gt;العنبر الملكي&lt;/transcy&gt;</title>
+    <s:type></s:type>
+    <s:vendor>EROS BLACK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-06-22-45-08_3.jpg?v=1746623721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EROS BLACK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><transcy><p style="white-space: pre-wrap;" class="">تجتمع الفانيلا والعنبر معًا لصنع عطر حلو وفخم. يمكن أن يجعلك ارتداء Amber De Bazaar تشعر بالإيجابية والبهجة طوال اليوم. عطر رائع لمحبي الشغف والرفاهية.</p><p style="white-space: pre-wrap;" class=""><strong> قمة:</strong> فانيلا</p><p style="white-space: pre-wrap;" class=""><strong> قلب:</strong> اللابدانوم</p><p style="white-space: pre-wrap;" class=""><strong> يتمركز:</strong> العنبر</p><p style="white-space: pre-wrap;" class=""></p></transcy></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-edition</s:tag>
+    <s:tag>import_2021_01_18_150250</s:tag>
+    <s:tag>Shop</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/7726137999511</id>
+      <title>50 مل</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku>SQ4918308</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/6704706846871</id>
+    <published>2021-04-08T21:50:40+03:00</published>
+    <updated>2021-04-08T21:50:40+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/imperial-rouge"/>
+    <title>&lt;transcy&gt;إمبريال روج&lt;/transcy&gt;</title>
+    <s:type></s:type>
+    <s:vendor>CLASSIC COLLECTION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/PHOTO-2025-05-07-18-20-20_2.jpg?v=1746968754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLASSIC COLLECTION<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><transcy><p style="white-space: pre-wrap;" class="">تُلهم كثافة وشغف وقوة Imperial Rouge هذا العطر في بعض الأحيان بالدفء ، وفي بعض الأحيان الحمضيات ، والأصالة دائمًا. تم تشكيل شخصيته بمزيج مثالي من الخشب والنوتات الحلوة ، مع لمسات الفانيليا الخفيفة. بعد ثانية ، نكتشف الألوان المتوسطة الزهرية والتوابل ، حيث تتنافس القرفة مع الجلود وخشب الصندل. ومع ذلك ، فإن الانتصار والمجد النهائي مخصصان لرائحة الحمضيات القوية للجريب فروت وجواهر أرتميس الحارة اللذيذة.</p><p style="white-space: pre-wrap;" class=""><br></p><p style="white-space: pre-wrap;" class=""><strong> أعلى ملاحظة:</strong> البرغموت والهيل وبذور الجزر</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة متوسطة:</strong> جلد ، أرز ، صندل</p><p style="white-space: pre-wrap;" class=""><strong> ملاحظة أساسية:</strong> العنبر ، تونكا</p><p style="white-space: pre-wrap;" class=""></p><p style="white-space: pre-wrap;" class=""><strong> طبقة مع</strong></p><p style="white-space: pre-wrap;" class=""> الجريب فروت لرائحة خفيفة</p><p style="white-space: pre-wrap;" class=""> الفانيليا لرائحة دافئة</p></transcy></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-edition</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/6704706846871</id>
+      <title>50 مل</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/6362008289431</id>
+    <published>2021-01-18T18:03:19+03:00</published>
+    <updated>2021-01-18T18:03:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/orchid-attraction"/>
+    <title>&lt;transcy&gt;خشب الصندل الجلدي&lt;/transcy&gt;</title>
+    <s:type></s:type>
+    <s:vendor>EROS BLACK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/b094f3c7-2299-4c03-b557-e530383b2abc.jpg?v=1746534252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EROS BLACK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><transcy><p class="" style="white-space:pre-wrap;">يمنح مزيج الجلد وخشب الصندل عطرًا فريدًا يدوم طويلاً. Orchid Attraction حصري وقوي لتجربة حسية أبدية. حصرية. فريد. قوي</p><p class="" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><strong> قمة:</strong> فلفل اسود</p><p class="" style="white-space:pre-wrap;"><strong> قلب:</strong> جلد</p><p class="" style="white-space:pre-wrap;"><strong> يتمركز:</strong> خشب الصندل</p></transcy></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-edition</s:tag>
+    <s:tag>import_2021_01_18_150250</s:tag>
+    <s:tag>Shop</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/6362008289431</id>
+      <title>50 مل</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku>SQ8969899</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/6362008158359</id>
+    <published>2021-01-18T18:03:19+03:00</published>
+    <updated>2021-01-18T18:03:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/majestic"/>
+    <title>&lt;transcy&gt;توباكو فانيليا&lt;/transcy&gt;</title>
+    <s:type></s:type>
+    <s:vendor>EROS BLACK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/EC534153-651D-4224-BC19-EAEE7A6411C4.png?v=1747578692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EROS BLACK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><transcy><p style="white-space: pre-wrap;" class="">الحبال الزهرية المتفجرة التي تنقلنا إلى الشرق ، مع جوهر خفي للبخور الغريب. يذكرنا الحضور المهيب لعطر الإيلنغ الجميل بالقوة الأبدية التي تتمتع بها جميع الأزهار. تعتبر المكونات النهائية للباتشولي والورد مفاجأة للحواس.</p><p style="white-space: pre-wrap;" class=""><br></p><p style="white-space: pre-wrap;" class=""><strong> قمة:</strong> يلانغ يلانغ</p><p style="white-space: pre-wrap;" class=""><strong> قلب:</strong> البنفسجي</p><p style="white-space: pre-wrap;" class=""><strong> يتمركز:</strong> المسك</p></transcy></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-edition</s:tag>
+    <s:tag>Floral and sandalwood</s:tag>
+    <s:tag>import_2021_01_18_150250</s:tag>
+    <s:tag>Shop</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/6362008158359</id>
+      <title>50 مل</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku>SQ0141595</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rkcollection.sa/ar/products/6362007994519</id>
+    <published>2021-01-18T18:03:18+03:00</published>
+    <updated>2021-01-18T18:03:18+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://rkcollection.sa/ar/products/amber-de-bazaar"/>
+    <title>العنبر الملكي</title>
+    <s:type></s:type>
+    <s:vendor>EROS BLACK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0523/4815/8103/files/65243aca-12ce-489e-893e-9bb0606563cb.jpg?v=1746624042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EROS BLACK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">تجتمع الفانيلا والعنبر معًا لصنع عطر حلو وفخم. يمكن أن يجعلك ارتداء Amber De Bazaar تشعر بالإيجابية والبهجة طوال اليوم. عطر رائع لمحبي الشغف والرفاهية.</p><p style="white-space: pre-wrap;" class=""><strong> قمة:</strong> فانيلا</p><p style="white-space: pre-wrap;" class=""><strong> قلب:</strong> اللابدانوم</p><p style="white-space: pre-wrap;" class=""><strong> يتمركز:</strong> العنبر</p><p style="white-space: pre-wrap;" class=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-edition</s:tag>
+    <s:tag>import_2021_01_18_150250</s:tag>
+    <s:tag>Shop</s:tag>
+    <s:variant>
+      <id>https://rkcollection.sa/ar/products/6362007994519</id>
+      <title>50 مل</title>
+      <s:price currency="SAR">250.00</s:price>
+      <s:sku>SQ4918308</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
